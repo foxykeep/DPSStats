@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Addon Author="Foxykeep"  Version="1.0.0" APIVersion="9" Name="DPSStats" Description="Addon showing your DPS Stats (AP, Primary Stats, Crit Hit, ...)">
-    <Script Name="DPSStats.lua"/>
+<Addon Author="Foxykeep"  Version="1.0.1" APIVersion="9" Name="DPSStats" Description="Addon showing your DPS Stats (AP, Primary Stats, Crit Hit, ...)">
+    <Script Name="Libs\FoxyLib.lua"/>
+	<Script Name="DPSStats.lua"/>
     <Form Name="DPSStats.xml"/>
 </Addon>
